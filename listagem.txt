@@ -1,4 +1,6 @@
 
 Listagen de todos os usuarios da nossa plataforma
 
-Buscar > nome > email e ID
+Buscar > ID > nome > email 
+
+//informações dos usuarios 
